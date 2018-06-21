@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbf58986-c035-4ec6-9e5e-70adb8f0dfd6" name="GatewayServe" url="http://localhost:8081">
+        <fileTransfer port="0" mountedRoot="C:\Users\jakub.badysiak\IdeaProjects\py4j" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
